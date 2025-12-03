@@ -198,7 +198,7 @@ The HMRC Payroll QA Project aims to validate the accuracy, reliability, and comp
 | **Network** | Corporate VPN (if required) |
 
 ### Environment Access
-- Test environment URL: [https://test-payroll.company.com]
+- Test environment URL: [xxxx]
 - Database access: SQL query permissions via authorized accounts
 - API endpoints: Staging environment base URL
 - Test user accounts: Provided by IT department
