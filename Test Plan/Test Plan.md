@@ -1,5 +1,5 @@
 # Test Plan Document
-## HMRC Payroll System QA Project
+## HMRC Payroll System
 
 ---
 
